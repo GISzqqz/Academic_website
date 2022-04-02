@@ -1,52 +1,52 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-email: ""
+  - course: PhD in Physical Geography (博士;自然地理)
+    institution: Beijing Normal University;BNU(北京师范大学)
+    year: 2021.9--now
+  - course: MSc in GIS (硕士;地理信息科学)
+    institution: North China University of Water Resources and Electric Power(华北水利水电大学)
+    year: 2018--2021
+  - course: BSc in GIS (本科;地理信息科学)
+    institution: North China University of Water Resources and Electric Power(华北水利水电大学)
+    year: 2013--2017
+email: "895300576@qq.com"
 highlight_name: true
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Drought Propagation
+- Spatial Analysis
+- Hydrometeorology
+- GIS
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-role: Professor of Artificial Intelligence
+- name: Beijing Normal University (北京师范大学)
+  url: https://geo.bnu.edu.cn/
+role: Ph.D. of Physical Geography (自然地理博士)
 social:
 - icon: envelope
   icon_pack: fas
   link: /#contact
 - display:
     header: true
-  icon: twitter
-  icon_pack: fab
-  label: Follow me on Twitter
-  link: https://twitter.com/GeorgeCushen
+  # icon: twitter
+  # icon_pack: fab
+  # label: Follow me on Twitter
+  # link: https://twitter.com/GeorgeCushen
 - icon: graduation-cap
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?hl=zh-CN&user=oaZ4QoYAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
-- icon: linkedin
+  link: https://github.com/GISzqqz
+- icon: researchgate
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.researchgate.net/profile/Qi-Zhang-341
 superuser: true
-title: Alice Bighetti (吳恩達)
+title: Qi Zhang (张棋)
 ---
 
-Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Qi Zhang is a Ph.D. student in Physical Geography at Beijing Normal University (BNU), Faculty of Geographical Science. He research interests include Hydrometeorology,drought,GIS,and spatial-temporal analysis. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
