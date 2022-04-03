@@ -47,5 +47,7 @@ title: Qi Zhang (张棋)
 
 Qi Zhang is a Ph.D. student in Physical Geography at Beijing Normal University (BNU), Faculty of Geographical Science. He research interests include Hydrometeorology,drought,GIS,and spatial-temporal analysis. 
 
+张棋是北京师范大学，地理科学学部，自然地理专业的一名在读博士生，他的研究方向和兴趣：干旱传递、水文气象、时空序列预测、GIS和空间分析。在硕士阶段曾荣获国家奖学金和优秀硕士毕业论文。
+
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
