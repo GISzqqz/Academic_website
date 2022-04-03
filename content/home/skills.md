@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: Skills
+title: Skills(技能)
 subtitle:
 
 # Showcase personal skills or business features.fab,ai,custom
