@@ -7,18 +7,21 @@ main:
   - name: Home(主页)
     url: '#about'
     weight: 10
-  - name: Experience(经历)
-    url: '#posts'
+  - name: Skills(技能)
+    url: '#skills'
     weight: 20
-  - name: Blogs(博客)
-    url: '#projects'
-    weight: 30
   - name: Publications(论文)
-    url: '#talks'
+    url: '#publications'
+    weight: 30
+  - name: Blogs(博客)
+    url: '#blogs'
     weight: 40
+  - name: Experience(经历)
+    url: '#experience'
+    weight: 50
   - name: Courses(课程)
     url: courses/
-    weight: 50
+    weight: 60
   - name: Contact(联系)
     url: '#contact'
-    weight: 60
+    weight: 70

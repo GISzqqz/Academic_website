@@ -12,22 +12,22 @@ weight: 30
 title: Skills
 subtitle:
 
-# Showcase personal skills or business features.
+# Showcase personal skills or business features.fab,ai,custom
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 50%
+- description: 60%
   icon: python
-  icon_pack: fab
+  icon_pack: custom
   name: Python
 - description: 70%
-  icon: r-project
-  icon_pack: fab
+  icon: RRR
+  icon_pack: custom
   name: R
-- description: 30%
-  icon: researchgate
-  icon_pack: ai
-  name: Research Gate
+- description: 70%
+  icon: ArcGISPro
+  icon_pack: custom
+  name: ArcGIS
 
 # Uncomment to use emoji icons.
 #- icon: ':smile:'
