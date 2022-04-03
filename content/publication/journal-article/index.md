@@ -1,52 +1,32 @@
 ---
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
-  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed
-  ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis
-  sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida
-  egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id
-  dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus.
-  Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Drought is a common natural disaster that greatly affects the crop yield and water supply in China. However,the spatiotemporal characteristics of drought in China are not well understood. This paper explores the spatial and temporal distributions of droughts in China over the past 40 years using multiscale standardized precipitation evapotranspiration index (SPEI) values calculated by monthly precipitation and temperature data from 612 meteorological stations in China from 1980 to 2019 and combines the space–time cube (STC), Mann–Kendall test, emerging spatiotemporal hot-spot analysis, spatiotemporal clustering, and local outliers for the analysis. The results were as follows:1) the drought frequency and STC show that there is a significant difference in the spatiotemporal distribution of drought in China, with the most severe drought in Northwest China, followed by the western part of Southwest China and the northern part of North China.2) The emerging spatiotemporal hot-spot analysis of SPEI6 over the past 40 years reveals two cold spots in subregion 4,indicating that future droughts in the region will be more severe. 3) A local outlier analysis of the multiscale SPEI yields a low–low outlier in western North China, indicating relatively more severe year-round drought in this area than in other areas. The low–high outlier in central China indicates that this region was not dry in the past and that drought will become more severe in this region in the future.
 author_notes:
 - Equal contribution
 - Equal contribution
 authors:
-- admin
-- Robert Ford
-date: "2015-09-01T00:00:00Z"
+- Dehe Xu
+- Qi Zhang*
+#date: "2021-09-01T00:00:00Z"
 doi: ""
 featured: false
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  #caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
   focal_point: ""
   preview_only: false
 projects: []
-publication: '*Journal of Source Themes, 1*(1)'
+publication: '*Journal of Applied Meteorology and Climatology, 60*(1219-1230)'
 publication_short: ""
 publication_types:
 - "2"
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2021-09-01T00:00:00Z"
 slides: example
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
-  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Spatiotemporal Pattern Mining of Drought in the Last 40 Years in China Based on the SPEI and Space Time Cube
 tags:
 - Source Themes
-title: An example journal article
-url_code: https://github.com/wowchemy/wowchemy-hugo-themes
-url_dataset: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_poster: ""
-url_project: ""
-url_slides: ""
-url_source: ""
-url_video: ""
+title: Spatiotemporal Pattern Mining of Drought in the Last 40 Years in China Based on the SPEI and Space Time Cube
+#url_code: https://github.com/wowchemy/wowchemy-hugo-themes
+#url_dataset: 
+url_pdf: https://journals.ametsoc.org/view/journals/apme/59/7/jamcD190270.xml
+
 ---
 
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
